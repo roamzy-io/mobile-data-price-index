@@ -68,7 +68,7 @@ A `CITATION.cff` is included — GitHub's **"Cite this repository"** button rend
 
 ## License
 
-Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — use it for anything, credit "Roamzy (roamzy.io)". Scripts: MIT.
+Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (`LICENSE`) — use it for anything, credit "Roamzy (roamzy.io)". Scripts: MIT (`scripts/LICENSE`).
 
 ## Related
 
