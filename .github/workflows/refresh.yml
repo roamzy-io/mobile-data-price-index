@@ -1,0 +1,29 @@
+name: Refresh from live catalog
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # daily, 06:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Refresh dataset
+        run: node scripts/refresh.mjs
+      - name: Commit if changed
+        run: |
+          if git diff --quiet; then echo "no change"; exit 0; fi
+          git config user.name "roamzy-data-bot"
+          git config user.email "data@roamzy.io"
+          VERSION=$(node -e "console.log(require('./data/latest.json').prices_version)")
+          git add -A
+          git commit -m "data: refresh — price list ${VERSION}, $(date -u +%Y-%m-%d)"
+          git push

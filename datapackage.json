@@ -1,0 +1,105 @@
+{
+  "name": "mobile-data-price-index",
+  "title": "Mobile Data Price Index — metered eSIM rates for 193 countries",
+  "description": "Retail price of metered mobile data by country, USD per megabyte and per gigabyte, from the live Roamzy eSIM price list. Refreshed daily; every change snapshotted under data/history/.",
+  "version": "01082026",
+  "homepage": "https://github.com/roamzy-io/mobile-data-price-index",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Roamzy live catalog",
+      "path": "https://roamzy.io/api/v1/catalog"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Roamzy",
+      "path": "https://roamzy.io",
+      "role": "publisher"
+    }
+  ],
+  "keywords": [
+    "mobile data",
+    "eSIM",
+    "roaming",
+    "prices",
+    "telecom",
+    "open data",
+    "countries",
+    "ai agents"
+  ],
+  "resources": [
+    {
+      "name": "latest",
+      "path": "data/latest.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "slug",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "iso_alpha_2",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "pattern": "^[A-Z]{2}$"
+            }
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "zone",
+            "type": "string"
+          },
+          {
+            "name": "usd_per_mb",
+            "type": "number",
+            "description": "USD per megabyte, 4 decimals",
+            "constraints": {
+              "minimum": 0
+            }
+          },
+          {
+            "name": "usd_per_gb",
+            "type": "number",
+            "description": "USD per gigabyte (usd_per_mb × 1024), 2 decimals",
+            "constraints": {
+              "minimum": 0
+            }
+          },
+          {
+            "name": "premium",
+            "type": "integer",
+            "description": "1 = premium tier",
+            "constraints": {
+              "enum": [
+                0,
+                1
+              ]
+            }
+          }
+        ],
+        "primaryKey": "slug"
+      }
+    }
+  ]
+}

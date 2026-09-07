@@ -1,0 +1,194 @@
+slug,iso_alpha_2,name,zone,usd_per_mb,usd_per_gb,premium
+esim-afghanistan,AF,"Afghanistan","Middle East",0.0248,25.40,0
+esim-albania,AL,"Albania","EU no Reg",0.0026,2.66,0
+esim-algeria,DZ,"Algeria","Africa",0.0036,3.69,0
+esim-andorra,AD,"Andorra","EU no Reg",0.0026,2.66,0
+esim-angola,AO,"Angola","Africa",0.0070,7.17,0
+esim-anguilla,AI,"Anguilla","South America",0.0075,7.68,0
+esim-antigua-and-barbuda,AG,"Antigua and Barbuda","Caribbean",0.0070,7.17,0
+esim-argentina,AR,"Argentina","South America",0.0041,4.20,0
+esim-armenia,AM,"Armenia","SNG",0.0032,3.28,0
+esim-australia,AU,"Australia","Oceania",0.0014,1.43,0
+esim-austria,AT,"Austria","EU 33 REG",0.0006,0.61,0
+esim-azerbaijan,AZ,"Azerbaijan","SNG",0.0043,4.40,0
+esim-bahamas,BS,"Bahamas","Caribbean",0.0070,7.17,0
+esim-bahrain,BH,"Bahrain","Middle East",0.0042,4.30,0
+esim-bangladesh,BD,"Bangladesh","Asia",0.0029,2.97,0
+esim-barbados,BB,"Barbados","Caribbean",0.0076,7.78,0
+esim-belarus,BY,"Belarus","SNG",0.0026,2.66,0
+esim-belgium,BE,"Belgium","EU 33 REG",0.0006,0.61,0
+esim-belize,BZ,"Belize","South America",0.0145,14.85,0
+esim-benin,BJ,"Benin","Africa",0.0081,8.29,0
+esim-bermuda,BM,"Bermuda","Caribbean",0.0045,4.61,0
+esim-bhutan,BT,"Bhutan","Asia",0.1080,110.59,1
+esim-bolivarian-republic-of-venezuela,VE,"Bolivarian Republic of Venezuela","South America",0.0070,7.17,0
+esim-bosnia-and-herzegovina,BA,"Bosnia and Herzegovina","EU no Reg",0.0028,2.87,0
+esim-botswana,BW,"Botswana","Africa",0.0040,4.10,0
+esim-brazil,BR,"Brazil","South America",0.0044,4.51,0
+esim-british-virgin-islands,VG,"British Virgin Islands","Caribbean",0.0041,4.20,0
+esim-brunei-darussalam,BN,"Brunei Darussalam","Asia",0.0045,4.61,0
+esim-bulgaria,BG,"Bulgaria","EU 33 REG",0.0006,0.61,0
+esim-burkina-faso,BF,"Burkina Faso","Africa",0.0036,3.69,0
+esim-burundi,BI,"Burundi","Africa",0.0468,47.92,0
+esim-cambodia,KH,"Cambodia","Asia",0.0029,2.97,0
+esim-cameroon,CM,"Cameroon","Africa",0.0037,3.79,0
+esim-canada,CA,"Canada","Canada",0.0021,2.15,0
+esim-cape-verde,CV,"Cape Verde","Africa",0.0113,11.57,0
+esim-cayman-islands,KY,"Cayman Islands","Caribbean",0.0070,7.17,0
+esim-central-african-republic,CF,"Central African Republic","Africa",0.0036,3.69,0
+esim-chad,TD,"Chad","Africa",0.0041,4.20,0
+esim-chile,CL,"Chile","South America",0.0044,4.51,0
+esim-china,CN,"China","Asia",0.0022,2.25,0
+esim-colombia,CO,"Colombia","South America",0.0046,4.71,0
+esim-comoros,KM,"Comoros","Africa",0.1758,180.02,1
+esim-costa-rica,CR,"Costa Rica","Central America",0.0014,1.43,0
+esim-cote-d-ivoire,CI,"Cote d`Ivoire","Africa",0.0038,3.89,0
+esim-croatia,HR,"Croatia","EU 33 REG",0.0006,0.61,0
+esim-cuba,CU,"Cuba","Caribbean",0.0162,16.59,0
+esim-curacao,CW,"Curacao","Caribbean",0.0040,4.10,0
+esim-cyprus,CY,"Cyprus","EU 33 REG",0.0006,0.61,0
+esim-czech-republic,CZ,"Czech Republic","EU 33 REG",0.0006,0.61,0
+esim-democratic-republic-of-congo,CD,"Democratic Republic of Congo","Africa",0.0036,3.69,0
+esim-denmark,DK,"Denmark","EU 33 REG",0.0006,0.61,0
+esim-dominica,DM,"Dominica","Caribbean",0.0081,8.29,0
+esim-dominican-republic,DO,"Dominican Republic","Caribbean",0.0015,1.54,0
+esim-ecuador,EC,"Ecuador","South America",0.0049,5.02,0
+esim-egypt,EG,"Egypt","Africa",0.0036,3.69,0
+esim-el-salvador,SV,"El Salvador","Central America",0.0014,1.43,0
+esim-equatorial-guinea,GQ,"Equatorial Guinea","Africa",0.0970,99.33,1
+esim-estonia,EE,"Estonia","EU 33 REG",0.0006,0.61,0
+esim-ethiopia,ET,"Ethiopia","Africa",0.0146,14.95,0
+esim-faroe-islands,FO,"Faroe Islands","EU no Reg",0.0016,1.64,0
+esim-fiji,FJ,"Fiji","Oceania",0.0063,6.45,0
+esim-finland,FI,"Finland","EU 33 REG",0.0006,0.61,0
+esim-france,FR,"France","France",0.0008,0.82,0
+esim-french-polynesia,PF,"French Polynesia","Asia",0.0135,13.82,0
+esim-gabon,GA,"Gabon","Africa",0.0036,3.69,0
+esim-gambia,GM,"Gambia","Africa",0.0070,7.17,0
+esim-georgia,GE,"Georgia","SNG",0.0042,4.30,0
+esim-germany,DE,"Germany","EU 33 REG",0.0006,0.61,0
+esim-ghana,GH,"Ghana","Africa",0.0036,3.69,0
+esim-gibraltar,GI,"Gibraltar","EU no Reg",0.0026,2.66,0
+esim-greece,GR,"Greece","EU 33 REG",0.0006,0.61,0
+esim-greenland,GL,"Greenland","EU no Reg",0.0050,5.12,0
+esim-grenada,GD,"Grenada","Caribbean",0.0076,7.78,0
+esim-guadeloupe-martinique-french-guiana,GP,"Guadeloupe / Martinique / French Guiana","South America",0.0006,0.61,0
+esim-guatemala,GT,"Guatemala","South America",0.0022,2.25,0
+esim-guinea,GN,"Guinea","Africa",0.0036,3.69,0
+esim-guinea-bissau,GW,"Guinea-Bissau","Africa",0.0036,3.69,0
+esim-guyana,GY,"Guyana","South America",0.0043,4.40,0
+esim-haiti,HT,"Haiti","Caribbean",0.0434,44.44,0
+esim-honduras,HN,"Honduras","South America",0.0014,1.43,0
+esim-hong-kong,HK,"Hong Kong","Asia",0.0029,2.97,0
+esim-hungary,HU,"Hungary","EU 33 REG",0.0006,0.61,0
+esim-iceland,IS,"Iceland","EU 33 REG",0.0006,0.61,0
+esim-india,IN,"India","Asia",0.0029,2.97,0
+esim-indonesia,ID,"Indonesia","Asia",0.0015,1.54,0
+esim-iran,IR,"Iran","Middle East",0.0045,4.61,0
+esim-iraq,IQ,"Iraq","Middle East",0.0051,5.22,0
+esim-ireland,IE,"Ireland","EU 33 REG",0.0006,0.61,0
+esim-israel,IL,"Israel","Israel / Palestine",0.0039,3.99,0
+esim-italy,IT,"Italy","EU 33 REG",0.0006,0.61,0
+esim-jamaica,JM,"Jamaica","Caribbean",0.0036,3.69,0
+esim-japan,JP,"Japan","Asia",0.0021,2.15,0
+esim-jordan,JO,"Jordan","Middle East",0.0045,4.61,0
+esim-kazakhstan,KZ,"Kazakhstan","SNG",0.0026,2.66,0
+esim-kenya,KE,"Kenya","Africa",0.0046,4.71,0
+esim-kosovo,XK,"Kosovo","EU no Reg",0.0027,2.76,0
+esim-kuwait,KW,"Kuwait","Middle East",0.0044,4.51,0
+esim-kyrgyzstan,KG,"Kyrgyzstan","SNG",0.0096,9.83,0
+esim-laos,LA,"Laos","Asia",0.0029,2.97,0
+esim-latvia,LV,"Latvia","EU 33 REG",0.0020,2.05,0
+esim-lebanon,LB,"Lebanon","Middle East",0.0269,27.55,0
+esim-lesotho,LS,"Lesotho","Africa",0.0180,18.43,0
+esim-liberia,LR,"Liberia","Africa",0.0036,3.69,0
+esim-libya,LY,"Libya","Africa",0.0064,6.55,0
+esim-liechtenstein,LI,"Liechtenstein","EU 33 REG",0.0006,0.61,0
+esim-lithuania,LT,"Lithuania","EU 33 REG",0.0006,0.61,0
+esim-luxembourg,LU,"Luxembourg","EU 33 REG",0.0006,0.61,0
+esim-macau,MO,"Macau","Asia",0.0029,2.97,0
+esim-macedonia,MK,"Macedonia","EU no Reg",0.0017,1.74,0
+esim-madagascar,MG,"Madagascar","Africa",0.0036,3.69,0
+esim-malawi,MW,"Malawi","Africa",0.0052,5.32,0
+esim-malaysia,MY,"Malaysia","Asia",0.0014,1.43,0
+esim-maldives,MV,"Maldives","Maldives",0.0718,73.52,1
+esim-mali,ML,"Mali","Africa",0.0036,3.69,0
+esim-malta,MT,"Malta","EU 33 REG",0.0006,0.61,0
+esim-mauritania,MR,"Mauritania","Africa",0.0135,13.82,0
+esim-mauritius,MU,"Mauritius","Africa",0.0068,6.96,0
+esim-mexico,MX,"Mexico","Central America",0.0018,1.84,0
+esim-moldova,MD,"Moldova","SNG",0.0027,2.76,0
+esim-monaco,MC,"Monaco","EU no Reg",0.0216,22.12,0
+esim-mongolia,MN,"Mongolia","Asia",0.0044,4.51,0
+esim-montenegro,ME,"Montenegro","EU no Reg",0.0024,2.46,0
+esim-montserrat,MS,"Montserrat","Caribbean",0.0074,7.58,0
+esim-morocco,MA,"Morocco","Africa",0.0036,3.69,0
+esim-mozambique,MZ,"Mozambique","Africa",0.0036,3.69,0
+esim-nepal,NP,"Nepal","Asia",0.0180,18.43,0
+esim-netherlands,NL,"Netherlands","EU 33 REG",0.0006,0.61,0
+esim-new-zealand,NZ,"New Zealand","Oceania",0.0015,1.54,0
+esim-nicaragua,NI,"Nicaragua","South America",0.0014,1.43,0
+esim-niger,NE,"Niger","Africa",0.0146,14.95,0
+esim-nigeria,NG,"Nigeria","Africa",0.0036,3.69,0
+esim-norway,NO,"Norway","EU 33 REG",0.0006,0.61,0
+esim-oman,OM,"Oman","Middle East",0.0032,3.28,0
+esim-pakistan,PK,"Pakistan","Middle East",0.0021,2.15,0
+esim-palestinian-territory,PS,"Palestinian Territory","Israel / Palestine",0.0045,4.61,0
+esim-panama,PA,"Panama","South America",0.0039,3.99,0
+esim-papua-new-guinea,PG,"Papua New Guinea","Oceania",0.0070,7.17,0
+esim-paraguay,PY,"Paraguay","South America",0.0016,1.64,0
+esim-peru,PE,"Peru","South America",0.0016,1.64,0
+esim-philippines,PH,"Philippines","Asia",0.0030,3.07,0
+esim-plurinational-state-of-bolivia,BO,"Plurinational State of Bolivia","South America",0.0041,4.20,0
+esim-poland,PL,"Poland","EU 33 REG",0.0006,0.61,0
+esim-portugal,PT,"Portugal","EU 33 REG",0.0006,0.61,0
+esim-puerto-rico,PR,"Puerto Rico","Caribbean",0.0014,1.43,0
+esim-qatar,QA,"Qatar","Middle East",0.0032,3.28,0
+esim-republic-of-congo,CG,"Republic of Congo","Africa",0.0036,3.69,0
+esim-republic-of-korea,KR,"Republic of Korea","Asia",0.0029,2.97,0
+esim-reunion,RE,"Reunion","EU 33 REG",0.0006,0.61,0
+esim-romania,RO,"Romania","EU 33 REG",0.0006,0.61,0
+esim-russian-federation,RU,"Russian Federation","Russia",0.0022,2.25,0
+esim-rwanda,RW,"Rwanda","Africa",0.0040,4.10,0
+esim-saint-kitts-and-nevis,KN,"Saint Kitts and Nevis","Caribbean",0.0070,7.17,0
+esim-saint-lucia,LC,"Saint Lucia","Caribbean",0.0081,8.29,0
+esim-saint-vincent-and-the-grenadines,VC,"Saint Vincent and the Grenadines","Caribbean",0.0070,7.17,0
+esim-samoa,WS,"Samoa","Oceania",0.0056,5.73,0
+esim-saudi-arabia,SA,"Saudi Arabia","Saudi Arabia",0.0033,3.38,0
+esim-senegal,SN,"Senegal","Africa",0.0032,3.28,0
+esim-serbia,RS,"Serbia","EU no Reg",0.0026,2.66,0
+esim-seychelles,SC,"Seychelles","Seychelles",0.0038,3.89,0
+esim-sierra-leone,SL,"Sierra Leone","Africa",0.0036,3.69,0
+esim-singapore,SG,"Singapore","Asia",0.0029,2.97,0
+esim-slovak-republic,SK,"Slovak Republic","EU 33 REG",0.0006,0.61,0
+esim-slovenia,SI,"Slovenia","EU 33 REG",0.0006,0.61,0
+esim-south-africa,ZA,"South Africa","Africa",0.0036,3.69,0
+esim-south-sudan,SS,"South Sudan","Africa",0.0078,7.99,0
+esim-spain,ES,"Spain","EU 33 REG",0.0006,0.61,0
+esim-sri-lanka,LK,"Sri Lanka","Asia",0.0029,2.97,0
+esim-sudan,SD,"Sudan","Africa",0.0107,10.96,0
+esim-suriname,SR,"Suriname","South America",0.0029,2.97,0
+esim-swaziland,SZ,"Swaziland","Africa",0.0069,7.07,0
+esim-sweden,SE,"Sweden","EU 33 REG",0.0006,0.61,0
+esim-switzerland,CH,"Switzerland","EU no Reg",0.0010,1.02,0
+esim-taiwan,TW,"Taiwan","Asia",0.0026,2.66,0
+esim-tajikistan,TJ,"Tajikistan","SNG",0.0269,27.55,0
+esim-tanzania,TZ,"Tanzania","Africa",0.0036,3.69,0
+esim-thailand,TH,"Thailand","Asia",0.0014,1.43,0
+esim-togo,TG,"Togo","Africa",0.0135,13.82,0
+esim-tonga,TO,"Tonga","Oceania",0.0065,6.66,0
+esim-trinidad-and-tobago,TT,"Trinidad and Tobago","Caribbean",0.0041,4.20,0
+esim-tunisia,TN,"Tunisia","Africa",0.0035,3.58,0
+esim-turkey,TR,"Turkey","Turkey",0.0010,1.02,0
+esim-turks-and-caicos-islands,TC,"Turks and Caicos Islands","Caribbean",0.0040,4.10,0
+esim-uganda,UG,"Uganda","Africa",0.0041,4.20,0
+esim-ukraine,UA,"Ukraine","SNG",0.0024,2.46,0
+esim-united-arab-emirates,AE,"United Arab Emirates","UAE",0.0023,2.36,0
+esim-united-kingdom,GB,"United Kingdom","EU 33 REG",0.0006,0.61,0
+esim-united-states,US,"United States","United States",0.0022,2.25,0
+esim-uruguay,UY,"Uruguay","South America",0.0017,1.74,0
+esim-uzbekistan,UZ,"Uzbekistan","SNG",0.0043,4.40,0
+esim-vanuatu,VU,"Vanuatu","Oceania",0.0146,14.95,0
+esim-vietnam,VN,"Vietnam","Asia",0.0014,1.43,0
+esim-zambia,ZM,"Zambia","Africa",0.0036,3.69,0
+esim-zimbabwe,ZW,"Zimbabwe","Africa",0.0768,78.64,1

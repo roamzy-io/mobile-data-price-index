@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Mobile Data Price Index — metered eSIM rates for 193 countries"
+authors:
+  - name: "Roamzy"
+    website: "https://roamzy.io"
+repository-code: "https://github.com/roamzy-io/mobile-data-price-index"
+url: "https://roamzy.io/prices"
+license: CC-BY-4.0
+keywords:
+  - mobile data
+  - eSIM
+  - roaming
+  - prices
+  - telecom
+  - open data
+abstract: >-
+  Retail price of metered mobile data by country, in USD per megabyte and per
+  gigabyte, taken from the live Roamzy eSIM price list. One provider, one
+  currency, one unit for all 193 countries; refreshed daily with every change
+  snapshotted, so any figure can be cited by version or date.

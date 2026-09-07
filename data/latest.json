@@ -1,0 +1,1750 @@
+{
+  "dataset": "Mobile Data Price Index",
+  "publisher": "Roamzy",
+  "source": "https://roamzy.io/api/v1/catalog",
+  "license": "CC-BY-4.0",
+  "currency": "USD",
+  "unit": "price per megabyte and per gigabyte of metered mobile data",
+  "prices_version": "01082026",
+  "fetched_at": "2026-09-07T07:39:47.075Z",
+  "country_count": 193,
+  "countries": [
+    {
+      "slug": "esim-afghanistan",
+      "iso_alpha_2": "AF",
+      "name": "Afghanistan",
+      "zone": "Middle East",
+      "usd_per_mb": 0.0248,
+      "usd_per_gb": 25.4,
+      "premium": 0
+    },
+    {
+      "slug": "esim-albania",
+      "iso_alpha_2": "AL",
+      "name": "Albania",
+      "zone": "EU no Reg",
+      "usd_per_mb": 0.0026,
+      "usd_per_gb": 2.66,
+      "premium": 0
+    },
+    {
+      "slug": "esim-algeria",
+      "iso_alpha_2": "DZ",
+      "name": "Algeria",
+      "zone": "Africa",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-andorra",
+      "iso_alpha_2": "AD",
+      "name": "Andorra",
+      "zone": "EU no Reg",
+      "usd_per_mb": 0.0026,
+      "usd_per_gb": 2.66,
+      "premium": 0
+    },
+    {
+      "slug": "esim-angola",
+      "iso_alpha_2": "AO",
+      "name": "Angola",
+      "zone": "Africa",
+      "usd_per_mb": 0.007,
+      "usd_per_gb": 7.17,
+      "premium": 0
+    },
+    {
+      "slug": "esim-anguilla",
+      "iso_alpha_2": "AI",
+      "name": "Anguilla",
+      "zone": "South America",
+      "usd_per_mb": 0.0075,
+      "usd_per_gb": 7.68,
+      "premium": 0
+    },
+    {
+      "slug": "esim-antigua-and-barbuda",
+      "iso_alpha_2": "AG",
+      "name": "Antigua and Barbuda",
+      "zone": "Caribbean",
+      "usd_per_mb": 0.007,
+      "usd_per_gb": 7.17,
+      "premium": 0
+    },
+    {
+      "slug": "esim-argentina",
+      "iso_alpha_2": "AR",
+      "name": "Argentina",
+      "zone": "South America",
+      "usd_per_mb": 0.0041,
+      "usd_per_gb": 4.2,
+      "premium": 0
+    },
+    {
+      "slug": "esim-armenia",
+      "iso_alpha_2": "AM",
+      "name": "Armenia",
+      "zone": "SNG",
+      "usd_per_mb": 0.0032,
+      "usd_per_gb": 3.28,
+      "premium": 0
+    },
+    {
+      "slug": "esim-australia",
+      "iso_alpha_2": "AU",
+      "name": "Australia",
+      "zone": "Oceania",
+      "usd_per_mb": 0.0014,
+      "usd_per_gb": 1.43,
+      "premium": 0
+    },
+    {
+      "slug": "esim-austria",
+      "iso_alpha_2": "AT",
+      "name": "Austria",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-azerbaijan",
+      "iso_alpha_2": "AZ",
+      "name": "Azerbaijan",
+      "zone": "SNG",
+      "usd_per_mb": 0.0043,
+      "usd_per_gb": 4.4,
+      "premium": 0
+    },
+    {
+      "slug": "esim-bahamas",
+      "iso_alpha_2": "BS",
+      "name": "Bahamas",
+      "zone": "Caribbean",
+      "usd_per_mb": 0.007,
+      "usd_per_gb": 7.17,
+      "premium": 0
+    },
+    {
+      "slug": "esim-bahrain",
+      "iso_alpha_2": "BH",
+      "name": "Bahrain",
+      "zone": "Middle East",
+      "usd_per_mb": 0.0042,
+      "usd_per_gb": 4.3,
+      "premium": 0
+    },
+    {
+      "slug": "esim-bangladesh",
+      "iso_alpha_2": "BD",
+      "name": "Bangladesh",
+      "zone": "Asia",
+      "usd_per_mb": 0.0029,
+      "usd_per_gb": 2.97,
+      "premium": 0
+    },
+    {
+      "slug": "esim-barbados",
+      "iso_alpha_2": "BB",
+      "name": "Barbados",
+      "zone": "Caribbean",
+      "usd_per_mb": 0.0076,
+      "usd_per_gb": 7.78,
+      "premium": 0
+    },
+    {
+      "slug": "esim-belarus",
+      "iso_alpha_2": "BY",
+      "name": "Belarus",
+      "zone": "SNG",
+      "usd_per_mb": 0.0026,
+      "usd_per_gb": 2.66,
+      "premium": 0
+    },
+    {
+      "slug": "esim-belgium",
+      "iso_alpha_2": "BE",
+      "name": "Belgium",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-belize",
+      "iso_alpha_2": "BZ",
+      "name": "Belize",
+      "zone": "South America",
+      "usd_per_mb": 0.0145,
+      "usd_per_gb": 14.85,
+      "premium": 0
+    },
+    {
+      "slug": "esim-benin",
+      "iso_alpha_2": "BJ",
+      "name": "Benin",
+      "zone": "Africa",
+      "usd_per_mb": 0.0081,
+      "usd_per_gb": 8.29,
+      "premium": 0
+    },
+    {
+      "slug": "esim-bermuda",
+      "iso_alpha_2": "BM",
+      "name": "Bermuda",
+      "zone": "Caribbean",
+      "usd_per_mb": 0.0045,
+      "usd_per_gb": 4.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-bhutan",
+      "iso_alpha_2": "BT",
+      "name": "Bhutan",
+      "zone": "Asia",
+      "usd_per_mb": 0.108,
+      "usd_per_gb": 110.59,
+      "premium": 1
+    },
+    {
+      "slug": "esim-bolivarian-republic-of-venezuela",
+      "iso_alpha_2": "VE",
+      "name": "Bolivarian Republic of Venezuela",
+      "zone": "South America",
+      "usd_per_mb": 0.007,
+      "usd_per_gb": 7.17,
+      "premium": 0
+    },
+    {
+      "slug": "esim-bosnia-and-herzegovina",
+      "iso_alpha_2": "BA",
+      "name": "Bosnia and Herzegovina",
+      "zone": "EU no Reg",
+      "usd_per_mb": 0.0028,
+      "usd_per_gb": 2.87,
+      "premium": 0
+    },
+    {
+      "slug": "esim-botswana",
+      "iso_alpha_2": "BW",
+      "name": "Botswana",
+      "zone": "Africa",
+      "usd_per_mb": 0.004,
+      "usd_per_gb": 4.1,
+      "premium": 0
+    },
+    {
+      "slug": "esim-brazil",
+      "iso_alpha_2": "BR",
+      "name": "Brazil",
+      "zone": "South America",
+      "usd_per_mb": 0.0044,
+      "usd_per_gb": 4.51,
+      "premium": 0
+    },
+    {
+      "slug": "esim-british-virgin-islands",
+      "iso_alpha_2": "VG",
+      "name": "British Virgin Islands",
+      "zone": "Caribbean",
+      "usd_per_mb": 0.0041,
+      "usd_per_gb": 4.2,
+      "premium": 0
+    },
+    {
+      "slug": "esim-brunei-darussalam",
+      "iso_alpha_2": "BN",
+      "name": "Brunei Darussalam",
+      "zone": "Asia",
+      "usd_per_mb": 0.0045,
+      "usd_per_gb": 4.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-bulgaria",
+      "iso_alpha_2": "BG",
+      "name": "Bulgaria",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-burkina-faso",
+      "iso_alpha_2": "BF",
+      "name": "Burkina Faso",
+      "zone": "Africa",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-burundi",
+      "iso_alpha_2": "BI",
+      "name": "Burundi",
+      "zone": "Africa",
+      "usd_per_mb": 0.0468,
+      "usd_per_gb": 47.92,
+      "premium": 0
+    },
+    {
+      "slug": "esim-cambodia",
+      "iso_alpha_2": "KH",
+      "name": "Cambodia",
+      "zone": "Asia",
+      "usd_per_mb": 0.0029,
+      "usd_per_gb": 2.97,
+      "premium": 0
+    },
+    {
+      "slug": "esim-cameroon",
+      "iso_alpha_2": "CM",
+      "name": "Cameroon",
+      "zone": "Africa",
+      "usd_per_mb": 0.0037,
+      "usd_per_gb": 3.79,
+      "premium": 0
+    },
+    {
+      "slug": "esim-canada",
+      "iso_alpha_2": "CA",
+      "name": "Canada",
+      "zone": "Canada",
+      "usd_per_mb": 0.0021,
+      "usd_per_gb": 2.15,
+      "premium": 0
+    },
+    {
+      "slug": "esim-cape-verde",
+      "iso_alpha_2": "CV",
+      "name": "Cape Verde",
+      "zone": "Africa",
+      "usd_per_mb": 0.0113,
+      "usd_per_gb": 11.57,
+      "premium": 0
+    },
+    {
+      "slug": "esim-cayman-islands",
+      "iso_alpha_2": "KY",
+      "name": "Cayman Islands",
+      "zone": "Caribbean",
+      "usd_per_mb": 0.007,
+      "usd_per_gb": 7.17,
+      "premium": 0
+    },
+    {
+      "slug": "esim-central-african-republic",
+      "iso_alpha_2": "CF",
+      "name": "Central African Republic",
+      "zone": "Africa",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-chad",
+      "iso_alpha_2": "TD",
+      "name": "Chad",
+      "zone": "Africa",
+      "usd_per_mb": 0.0041,
+      "usd_per_gb": 4.2,
+      "premium": 0
+    },
+    {
+      "slug": "esim-chile",
+      "iso_alpha_2": "CL",
+      "name": "Chile",
+      "zone": "South America",
+      "usd_per_mb": 0.0044,
+      "usd_per_gb": 4.51,
+      "premium": 0
+    },
+    {
+      "slug": "esim-china",
+      "iso_alpha_2": "CN",
+      "name": "China",
+      "zone": "Asia",
+      "usd_per_mb": 0.0022,
+      "usd_per_gb": 2.25,
+      "premium": 0
+    },
+    {
+      "slug": "esim-colombia",
+      "iso_alpha_2": "CO",
+      "name": "Colombia",
+      "zone": "South America",
+      "usd_per_mb": 0.0046,
+      "usd_per_gb": 4.71,
+      "premium": 0
+    },
+    {
+      "slug": "esim-comoros",
+      "iso_alpha_2": "KM",
+      "name": "Comoros",
+      "zone": "Africa",
+      "usd_per_mb": 0.1758,
+      "usd_per_gb": 180.02,
+      "premium": 1
+    },
+    {
+      "slug": "esim-costa-rica",
+      "iso_alpha_2": "CR",
+      "name": "Costa Rica",
+      "zone": "Central America",
+      "usd_per_mb": 0.0014,
+      "usd_per_gb": 1.43,
+      "premium": 0
+    },
+    {
+      "slug": "esim-cote-d-ivoire",
+      "iso_alpha_2": "CI",
+      "name": "Cote d`Ivoire",
+      "zone": "Africa",
+      "usd_per_mb": 0.0038,
+      "usd_per_gb": 3.89,
+      "premium": 0
+    },
+    {
+      "slug": "esim-croatia",
+      "iso_alpha_2": "HR",
+      "name": "Croatia",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-cuba",
+      "iso_alpha_2": "CU",
+      "name": "Cuba",
+      "zone": "Caribbean",
+      "usd_per_mb": 0.0162,
+      "usd_per_gb": 16.59,
+      "premium": 0
+    },
+    {
+      "slug": "esim-curacao",
+      "iso_alpha_2": "CW",
+      "name": "Curacao",
+      "zone": "Caribbean",
+      "usd_per_mb": 0.004,
+      "usd_per_gb": 4.1,
+      "premium": 0
+    },
+    {
+      "slug": "esim-cyprus",
+      "iso_alpha_2": "CY",
+      "name": "Cyprus",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-czech-republic",
+      "iso_alpha_2": "CZ",
+      "name": "Czech Republic",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-democratic-republic-of-congo",
+      "iso_alpha_2": "CD",
+      "name": "Democratic Republic of Congo",
+      "zone": "Africa",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-denmark",
+      "iso_alpha_2": "DK",
+      "name": "Denmark",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-dominica",
+      "iso_alpha_2": "DM",
+      "name": "Dominica",
+      "zone": "Caribbean",
+      "usd_per_mb": 0.0081,
+      "usd_per_gb": 8.29,
+      "premium": 0
+    },
+    {
+      "slug": "esim-dominican-republic",
+      "iso_alpha_2": "DO",
+      "name": "Dominican Republic",
+      "zone": "Caribbean",
+      "usd_per_mb": 0.0015,
+      "usd_per_gb": 1.54,
+      "premium": 0
+    },
+    {
+      "slug": "esim-ecuador",
+      "iso_alpha_2": "EC",
+      "name": "Ecuador",
+      "zone": "South America",
+      "usd_per_mb": 0.0049,
+      "usd_per_gb": 5.02,
+      "premium": 0
+    },
+    {
+      "slug": "esim-egypt",
+      "iso_alpha_2": "EG",
+      "name": "Egypt",
+      "zone": "Africa",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-el-salvador",
+      "iso_alpha_2": "SV",
+      "name": "El Salvador",
+      "zone": "Central America",
+      "usd_per_mb": 0.0014,
+      "usd_per_gb": 1.43,
+      "premium": 0
+    },
+    {
+      "slug": "esim-equatorial-guinea",
+      "iso_alpha_2": "GQ",
+      "name": "Equatorial Guinea",
+      "zone": "Africa",
+      "usd_per_mb": 0.097,
+      "usd_per_gb": 99.33,
+      "premium": 1
+    },
+    {
+      "slug": "esim-estonia",
+      "iso_alpha_2": "EE",
+      "name": "Estonia",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-ethiopia",
+      "iso_alpha_2": "ET",
+      "name": "Ethiopia",
+      "zone": "Africa",
+      "usd_per_mb": 0.0146,
+      "usd_per_gb": 14.95,
+      "premium": 0
+    },
+    {
+      "slug": "esim-faroe-islands",
+      "iso_alpha_2": "FO",
+      "name": "Faroe Islands",
+      "zone": "EU no Reg",
+      "usd_per_mb": 0.0016,
+      "usd_per_gb": 1.64,
+      "premium": 0
+    },
+    {
+      "slug": "esim-fiji",
+      "iso_alpha_2": "FJ",
+      "name": "Fiji",
+      "zone": "Oceania",
+      "usd_per_mb": 0.0063,
+      "usd_per_gb": 6.45,
+      "premium": 0
+    },
+    {
+      "slug": "esim-finland",
+      "iso_alpha_2": "FI",
+      "name": "Finland",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-france",
+      "iso_alpha_2": "FR",
+      "name": "France",
+      "zone": "France",
+      "usd_per_mb": 0.0008,
+      "usd_per_gb": 0.82,
+      "premium": 0
+    },
+    {
+      "slug": "esim-french-polynesia",
+      "iso_alpha_2": "PF",
+      "name": "French Polynesia",
+      "zone": "Asia",
+      "usd_per_mb": 0.0135,
+      "usd_per_gb": 13.82,
+      "premium": 0
+    },
+    {
+      "slug": "esim-gabon",
+      "iso_alpha_2": "GA",
+      "name": "Gabon",
+      "zone": "Africa",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-gambia",
+      "iso_alpha_2": "GM",
+      "name": "Gambia",
+      "zone": "Africa",
+      "usd_per_mb": 0.007,
+      "usd_per_gb": 7.17,
+      "premium": 0
+    },
+    {
+      "slug": "esim-georgia",
+      "iso_alpha_2": "GE",
+      "name": "Georgia",
+      "zone": "SNG",
+      "usd_per_mb": 0.0042,
+      "usd_per_gb": 4.3,
+      "premium": 0
+    },
+    {
+      "slug": "esim-germany",
+      "iso_alpha_2": "DE",
+      "name": "Germany",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-ghana",
+      "iso_alpha_2": "GH",
+      "name": "Ghana",
+      "zone": "Africa",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-gibraltar",
+      "iso_alpha_2": "GI",
+      "name": "Gibraltar",
+      "zone": "EU no Reg",
+      "usd_per_mb": 0.0026,
+      "usd_per_gb": 2.66,
+      "premium": 0
+    },
+    {
+      "slug": "esim-greece",
+      "iso_alpha_2": "GR",
+      "name": "Greece",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-greenland",
+      "iso_alpha_2": "GL",
+      "name": "Greenland",
+      "zone": "EU no Reg",
+      "usd_per_mb": 0.005,
+      "usd_per_gb": 5.12,
+      "premium": 0
+    },
+    {
+      "slug": "esim-grenada",
+      "iso_alpha_2": "GD",
+      "name": "Grenada",
+      "zone": "Caribbean",
+      "usd_per_mb": 0.0076,
+      "usd_per_gb": 7.78,
+      "premium": 0
+    },
+    {
+      "slug": "esim-guadeloupe-martinique-french-guiana",
+      "iso_alpha_2": "GP",
+      "name": "Guadeloupe / Martinique / French Guiana",
+      "zone": "South America",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-guatemala",
+      "iso_alpha_2": "GT",
+      "name": "Guatemala",
+      "zone": "South America",
+      "usd_per_mb": 0.0022,
+      "usd_per_gb": 2.25,
+      "premium": 0
+    },
+    {
+      "slug": "esim-guinea",
+      "iso_alpha_2": "GN",
+      "name": "Guinea",
+      "zone": "Africa",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-guinea-bissau",
+      "iso_alpha_2": "GW",
+      "name": "Guinea-Bissau",
+      "zone": "Africa",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-guyana",
+      "iso_alpha_2": "GY",
+      "name": "Guyana",
+      "zone": "South America",
+      "usd_per_mb": 0.0043,
+      "usd_per_gb": 4.4,
+      "premium": 0
+    },
+    {
+      "slug": "esim-haiti",
+      "iso_alpha_2": "HT",
+      "name": "Haiti",
+      "zone": "Caribbean",
+      "usd_per_mb": 0.0434,
+      "usd_per_gb": 44.44,
+      "premium": 0
+    },
+    {
+      "slug": "esim-honduras",
+      "iso_alpha_2": "HN",
+      "name": "Honduras",
+      "zone": "South America",
+      "usd_per_mb": 0.0014,
+      "usd_per_gb": 1.43,
+      "premium": 0
+    },
+    {
+      "slug": "esim-hong-kong",
+      "iso_alpha_2": "HK",
+      "name": "Hong Kong",
+      "zone": "Asia",
+      "usd_per_mb": 0.0029,
+      "usd_per_gb": 2.97,
+      "premium": 0
+    },
+    {
+      "slug": "esim-hungary",
+      "iso_alpha_2": "HU",
+      "name": "Hungary",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-iceland",
+      "iso_alpha_2": "IS",
+      "name": "Iceland",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-india",
+      "iso_alpha_2": "IN",
+      "name": "India",
+      "zone": "Asia",
+      "usd_per_mb": 0.0029,
+      "usd_per_gb": 2.97,
+      "premium": 0
+    },
+    {
+      "slug": "esim-indonesia",
+      "iso_alpha_2": "ID",
+      "name": "Indonesia",
+      "zone": "Asia",
+      "usd_per_mb": 0.0015,
+      "usd_per_gb": 1.54,
+      "premium": 0
+    },
+    {
+      "slug": "esim-iran",
+      "iso_alpha_2": "IR",
+      "name": "Iran",
+      "zone": "Middle East",
+      "usd_per_mb": 0.0045,
+      "usd_per_gb": 4.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-iraq",
+      "iso_alpha_2": "IQ",
+      "name": "Iraq",
+      "zone": "Middle East",
+      "usd_per_mb": 0.0051,
+      "usd_per_gb": 5.22,
+      "premium": 0
+    },
+    {
+      "slug": "esim-ireland",
+      "iso_alpha_2": "IE",
+      "name": "Ireland",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-israel",
+      "iso_alpha_2": "IL",
+      "name": "Israel",
+      "zone": "Israel / Palestine",
+      "usd_per_mb": 0.0039,
+      "usd_per_gb": 3.99,
+      "premium": 0
+    },
+    {
+      "slug": "esim-italy",
+      "iso_alpha_2": "IT",
+      "name": "Italy",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-jamaica",
+      "iso_alpha_2": "JM",
+      "name": "Jamaica",
+      "zone": "Caribbean",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-japan",
+      "iso_alpha_2": "JP",
+      "name": "Japan",
+      "zone": "Asia",
+      "usd_per_mb": 0.0021,
+      "usd_per_gb": 2.15,
+      "premium": 0
+    },
+    {
+      "slug": "esim-jordan",
+      "iso_alpha_2": "JO",
+      "name": "Jordan",
+      "zone": "Middle East",
+      "usd_per_mb": 0.0045,
+      "usd_per_gb": 4.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-kazakhstan",
+      "iso_alpha_2": "KZ",
+      "name": "Kazakhstan",
+      "zone": "SNG",
+      "usd_per_mb": 0.0026,
+      "usd_per_gb": 2.66,
+      "premium": 0
+    },
+    {
+      "slug": "esim-kenya",
+      "iso_alpha_2": "KE",
+      "name": "Kenya",
+      "zone": "Africa",
+      "usd_per_mb": 0.0046,
+      "usd_per_gb": 4.71,
+      "premium": 0
+    },
+    {
+      "slug": "esim-kosovo",
+      "iso_alpha_2": "XK",
+      "name": "Kosovo",
+      "zone": "EU no Reg",
+      "usd_per_mb": 0.0027,
+      "usd_per_gb": 2.76,
+      "premium": 0
+    },
+    {
+      "slug": "esim-kuwait",
+      "iso_alpha_2": "KW",
+      "name": "Kuwait",
+      "zone": "Middle East",
+      "usd_per_mb": 0.0044,
+      "usd_per_gb": 4.51,
+      "premium": 0
+    },
+    {
+      "slug": "esim-kyrgyzstan",
+      "iso_alpha_2": "KG",
+      "name": "Kyrgyzstan",
+      "zone": "SNG",
+      "usd_per_mb": 0.0096,
+      "usd_per_gb": 9.83,
+      "premium": 0
+    },
+    {
+      "slug": "esim-laos",
+      "iso_alpha_2": "LA",
+      "name": "Laos",
+      "zone": "Asia",
+      "usd_per_mb": 0.0029,
+      "usd_per_gb": 2.97,
+      "premium": 0
+    },
+    {
+      "slug": "esim-latvia",
+      "iso_alpha_2": "LV",
+      "name": "Latvia",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.002,
+      "usd_per_gb": 2.05,
+      "premium": 0
+    },
+    {
+      "slug": "esim-lebanon",
+      "iso_alpha_2": "LB",
+      "name": "Lebanon",
+      "zone": "Middle East",
+      "usd_per_mb": 0.0269,
+      "usd_per_gb": 27.55,
+      "premium": 0
+    },
+    {
+      "slug": "esim-lesotho",
+      "iso_alpha_2": "LS",
+      "name": "Lesotho",
+      "zone": "Africa",
+      "usd_per_mb": 0.018,
+      "usd_per_gb": 18.43,
+      "premium": 0
+    },
+    {
+      "slug": "esim-liberia",
+      "iso_alpha_2": "LR",
+      "name": "Liberia",
+      "zone": "Africa",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-libya",
+      "iso_alpha_2": "LY",
+      "name": "Libya",
+      "zone": "Africa",
+      "usd_per_mb": 0.0064,
+      "usd_per_gb": 6.55,
+      "premium": 0
+    },
+    {
+      "slug": "esim-liechtenstein",
+      "iso_alpha_2": "LI",
+      "name": "Liechtenstein",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-lithuania",
+      "iso_alpha_2": "LT",
+      "name": "Lithuania",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-luxembourg",
+      "iso_alpha_2": "LU",
+      "name": "Luxembourg",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-macau",
+      "iso_alpha_2": "MO",
+      "name": "Macau",
+      "zone": "Asia",
+      "usd_per_mb": 0.0029,
+      "usd_per_gb": 2.97,
+      "premium": 0
+    },
+    {
+      "slug": "esim-macedonia",
+      "iso_alpha_2": "MK",
+      "name": "Macedonia",
+      "zone": "EU no Reg",
+      "usd_per_mb": 0.0017,
+      "usd_per_gb": 1.74,
+      "premium": 0
+    },
+    {
+      "slug": "esim-madagascar",
+      "iso_alpha_2": "MG",
+      "name": "Madagascar",
+      "zone": "Africa",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-malawi",
+      "iso_alpha_2": "MW",
+      "name": "Malawi",
+      "zone": "Africa",
+      "usd_per_mb": 0.0052,
+      "usd_per_gb": 5.32,
+      "premium": 0
+    },
+    {
+      "slug": "esim-malaysia",
+      "iso_alpha_2": "MY",
+      "name": "Malaysia",
+      "zone": "Asia",
+      "usd_per_mb": 0.0014,
+      "usd_per_gb": 1.43,
+      "premium": 0
+    },
+    {
+      "slug": "esim-maldives",
+      "iso_alpha_2": "MV",
+      "name": "Maldives",
+      "zone": "Maldives",
+      "usd_per_mb": 0.0718,
+      "usd_per_gb": 73.52,
+      "premium": 1
+    },
+    {
+      "slug": "esim-mali",
+      "iso_alpha_2": "ML",
+      "name": "Mali",
+      "zone": "Africa",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-malta",
+      "iso_alpha_2": "MT",
+      "name": "Malta",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-mauritania",
+      "iso_alpha_2": "MR",
+      "name": "Mauritania",
+      "zone": "Africa",
+      "usd_per_mb": 0.0135,
+      "usd_per_gb": 13.82,
+      "premium": 0
+    },
+    {
+      "slug": "esim-mauritius",
+      "iso_alpha_2": "MU",
+      "name": "Mauritius",
+      "zone": "Africa",
+      "usd_per_mb": 0.0068,
+      "usd_per_gb": 6.96,
+      "premium": 0
+    },
+    {
+      "slug": "esim-mexico",
+      "iso_alpha_2": "MX",
+      "name": "Mexico",
+      "zone": "Central America",
+      "usd_per_mb": 0.0018,
+      "usd_per_gb": 1.84,
+      "premium": 0
+    },
+    {
+      "slug": "esim-moldova",
+      "iso_alpha_2": "MD",
+      "name": "Moldova",
+      "zone": "SNG",
+      "usd_per_mb": 0.0027,
+      "usd_per_gb": 2.76,
+      "premium": 0
+    },
+    {
+      "slug": "esim-monaco",
+      "iso_alpha_2": "MC",
+      "name": "Monaco",
+      "zone": "EU no Reg",
+      "usd_per_mb": 0.0216,
+      "usd_per_gb": 22.12,
+      "premium": 0
+    },
+    {
+      "slug": "esim-mongolia",
+      "iso_alpha_2": "MN",
+      "name": "Mongolia",
+      "zone": "Asia",
+      "usd_per_mb": 0.0044,
+      "usd_per_gb": 4.51,
+      "premium": 0
+    },
+    {
+      "slug": "esim-montenegro",
+      "iso_alpha_2": "ME",
+      "name": "Montenegro",
+      "zone": "EU no Reg",
+      "usd_per_mb": 0.0024,
+      "usd_per_gb": 2.46,
+      "premium": 0
+    },
+    {
+      "slug": "esim-montserrat",
+      "iso_alpha_2": "MS",
+      "name": "Montserrat",
+      "zone": "Caribbean",
+      "usd_per_mb": 0.0074,
+      "usd_per_gb": 7.58,
+      "premium": 0
+    },
+    {
+      "slug": "esim-morocco",
+      "iso_alpha_2": "MA",
+      "name": "Morocco",
+      "zone": "Africa",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-mozambique",
+      "iso_alpha_2": "MZ",
+      "name": "Mozambique",
+      "zone": "Africa",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-nepal",
+      "iso_alpha_2": "NP",
+      "name": "Nepal",
+      "zone": "Asia",
+      "usd_per_mb": 0.018,
+      "usd_per_gb": 18.43,
+      "premium": 0
+    },
+    {
+      "slug": "esim-netherlands",
+      "iso_alpha_2": "NL",
+      "name": "Netherlands",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-new-zealand",
+      "iso_alpha_2": "NZ",
+      "name": "New Zealand",
+      "zone": "Oceania",
+      "usd_per_mb": 0.0015,
+      "usd_per_gb": 1.54,
+      "premium": 0
+    },
+    {
+      "slug": "esim-nicaragua",
+      "iso_alpha_2": "NI",
+      "name": "Nicaragua",
+      "zone": "South America",
+      "usd_per_mb": 0.0014,
+      "usd_per_gb": 1.43,
+      "premium": 0
+    },
+    {
+      "slug": "esim-niger",
+      "iso_alpha_2": "NE",
+      "name": "Niger",
+      "zone": "Africa",
+      "usd_per_mb": 0.0146,
+      "usd_per_gb": 14.95,
+      "premium": 0
+    },
+    {
+      "slug": "esim-nigeria",
+      "iso_alpha_2": "NG",
+      "name": "Nigeria",
+      "zone": "Africa",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-norway",
+      "iso_alpha_2": "NO",
+      "name": "Norway",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-oman",
+      "iso_alpha_2": "OM",
+      "name": "Oman",
+      "zone": "Middle East",
+      "usd_per_mb": 0.0032,
+      "usd_per_gb": 3.28,
+      "premium": 0
+    },
+    {
+      "slug": "esim-pakistan",
+      "iso_alpha_2": "PK",
+      "name": "Pakistan",
+      "zone": "Middle East",
+      "usd_per_mb": 0.0021,
+      "usd_per_gb": 2.15,
+      "premium": 0
+    },
+    {
+      "slug": "esim-palestinian-territory",
+      "iso_alpha_2": "PS",
+      "name": "Palestinian Territory",
+      "zone": "Israel / Palestine",
+      "usd_per_mb": 0.0045,
+      "usd_per_gb": 4.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-panama",
+      "iso_alpha_2": "PA",
+      "name": "Panama",
+      "zone": "South America",
+      "usd_per_mb": 0.0039,
+      "usd_per_gb": 3.99,
+      "premium": 0
+    },
+    {
+      "slug": "esim-papua-new-guinea",
+      "iso_alpha_2": "PG",
+      "name": "Papua New Guinea",
+      "zone": "Oceania",
+      "usd_per_mb": 0.007,
+      "usd_per_gb": 7.17,
+      "premium": 0
+    },
+    {
+      "slug": "esim-paraguay",
+      "iso_alpha_2": "PY",
+      "name": "Paraguay",
+      "zone": "South America",
+      "usd_per_mb": 0.0016,
+      "usd_per_gb": 1.64,
+      "premium": 0
+    },
+    {
+      "slug": "esim-peru",
+      "iso_alpha_2": "PE",
+      "name": "Peru",
+      "zone": "South America",
+      "usd_per_mb": 0.0016,
+      "usd_per_gb": 1.64,
+      "premium": 0
+    },
+    {
+      "slug": "esim-philippines",
+      "iso_alpha_2": "PH",
+      "name": "Philippines",
+      "zone": "Asia",
+      "usd_per_mb": 0.003,
+      "usd_per_gb": 3.07,
+      "premium": 0
+    },
+    {
+      "slug": "esim-plurinational-state-of-bolivia",
+      "iso_alpha_2": "BO",
+      "name": "Plurinational State of Bolivia",
+      "zone": "South America",
+      "usd_per_mb": 0.0041,
+      "usd_per_gb": 4.2,
+      "premium": 0
+    },
+    {
+      "slug": "esim-poland",
+      "iso_alpha_2": "PL",
+      "name": "Poland",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-portugal",
+      "iso_alpha_2": "PT",
+      "name": "Portugal",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-puerto-rico",
+      "iso_alpha_2": "PR",
+      "name": "Puerto Rico",
+      "zone": "Caribbean",
+      "usd_per_mb": 0.0014,
+      "usd_per_gb": 1.43,
+      "premium": 0
+    },
+    {
+      "slug": "esim-qatar",
+      "iso_alpha_2": "QA",
+      "name": "Qatar",
+      "zone": "Middle East",
+      "usd_per_mb": 0.0032,
+      "usd_per_gb": 3.28,
+      "premium": 0
+    },
+    {
+      "slug": "esim-republic-of-congo",
+      "iso_alpha_2": "CG",
+      "name": "Republic of Congo",
+      "zone": "Africa",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-republic-of-korea",
+      "iso_alpha_2": "KR",
+      "name": "Republic of Korea",
+      "zone": "Asia",
+      "usd_per_mb": 0.0029,
+      "usd_per_gb": 2.97,
+      "premium": 0
+    },
+    {
+      "slug": "esim-reunion",
+      "iso_alpha_2": "RE",
+      "name": "Reunion",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-romania",
+      "iso_alpha_2": "RO",
+      "name": "Romania",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-russian-federation",
+      "iso_alpha_2": "RU",
+      "name": "Russian Federation",
+      "zone": "Russia",
+      "usd_per_mb": 0.0022,
+      "usd_per_gb": 2.25,
+      "premium": 0
+    },
+    {
+      "slug": "esim-rwanda",
+      "iso_alpha_2": "RW",
+      "name": "Rwanda",
+      "zone": "Africa",
+      "usd_per_mb": 0.004,
+      "usd_per_gb": 4.1,
+      "premium": 0
+    },
+    {
+      "slug": "esim-saint-kitts-and-nevis",
+      "iso_alpha_2": "KN",
+      "name": "Saint Kitts and Nevis",
+      "zone": "Caribbean",
+      "usd_per_mb": 0.007,
+      "usd_per_gb": 7.17,
+      "premium": 0
+    },
+    {
+      "slug": "esim-saint-lucia",
+      "iso_alpha_2": "LC",
+      "name": "Saint Lucia",
+      "zone": "Caribbean",
+      "usd_per_mb": 0.0081,
+      "usd_per_gb": 8.29,
+      "premium": 0
+    },
+    {
+      "slug": "esim-saint-vincent-and-the-grenadines",
+      "iso_alpha_2": "VC",
+      "name": "Saint Vincent and the Grenadines",
+      "zone": "Caribbean",
+      "usd_per_mb": 0.007,
+      "usd_per_gb": 7.17,
+      "premium": 0
+    },
+    {
+      "slug": "esim-samoa",
+      "iso_alpha_2": "WS",
+      "name": "Samoa",
+      "zone": "Oceania",
+      "usd_per_mb": 0.0056,
+      "usd_per_gb": 5.73,
+      "premium": 0
+    },
+    {
+      "slug": "esim-saudi-arabia",
+      "iso_alpha_2": "SA",
+      "name": "Saudi Arabia",
+      "zone": "Saudi Arabia",
+      "usd_per_mb": 0.0033,
+      "usd_per_gb": 3.38,
+      "premium": 0
+    },
+    {
+      "slug": "esim-senegal",
+      "iso_alpha_2": "SN",
+      "name": "Senegal",
+      "zone": "Africa",
+      "usd_per_mb": 0.0032,
+      "usd_per_gb": 3.28,
+      "premium": 0
+    },
+    {
+      "slug": "esim-serbia",
+      "iso_alpha_2": "RS",
+      "name": "Serbia",
+      "zone": "EU no Reg",
+      "usd_per_mb": 0.0026,
+      "usd_per_gb": 2.66,
+      "premium": 0
+    },
+    {
+      "slug": "esim-seychelles",
+      "iso_alpha_2": "SC",
+      "name": "Seychelles",
+      "zone": "Seychelles",
+      "usd_per_mb": 0.0038,
+      "usd_per_gb": 3.89,
+      "premium": 0
+    },
+    {
+      "slug": "esim-sierra-leone",
+      "iso_alpha_2": "SL",
+      "name": "Sierra Leone",
+      "zone": "Africa",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-singapore",
+      "iso_alpha_2": "SG",
+      "name": "Singapore",
+      "zone": "Asia",
+      "usd_per_mb": 0.0029,
+      "usd_per_gb": 2.97,
+      "premium": 0
+    },
+    {
+      "slug": "esim-slovak-republic",
+      "iso_alpha_2": "SK",
+      "name": "Slovak Republic",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-slovenia",
+      "iso_alpha_2": "SI",
+      "name": "Slovenia",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-south-africa",
+      "iso_alpha_2": "ZA",
+      "name": "South Africa",
+      "zone": "Africa",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-south-sudan",
+      "iso_alpha_2": "SS",
+      "name": "South Sudan",
+      "zone": "Africa",
+      "usd_per_mb": 0.0078,
+      "usd_per_gb": 7.99,
+      "premium": 0
+    },
+    {
+      "slug": "esim-spain",
+      "iso_alpha_2": "ES",
+      "name": "Spain",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-sri-lanka",
+      "iso_alpha_2": "LK",
+      "name": "Sri Lanka",
+      "zone": "Asia",
+      "usd_per_mb": 0.0029,
+      "usd_per_gb": 2.97,
+      "premium": 0
+    },
+    {
+      "slug": "esim-sudan",
+      "iso_alpha_2": "SD",
+      "name": "Sudan",
+      "zone": "Africa",
+      "usd_per_mb": 0.0107,
+      "usd_per_gb": 10.96,
+      "premium": 0
+    },
+    {
+      "slug": "esim-suriname",
+      "iso_alpha_2": "SR",
+      "name": "Suriname",
+      "zone": "South America",
+      "usd_per_mb": 0.0029,
+      "usd_per_gb": 2.97,
+      "premium": 0
+    },
+    {
+      "slug": "esim-swaziland",
+      "iso_alpha_2": "SZ",
+      "name": "Swaziland",
+      "zone": "Africa",
+      "usd_per_mb": 0.0069,
+      "usd_per_gb": 7.07,
+      "premium": 0
+    },
+    {
+      "slug": "esim-sweden",
+      "iso_alpha_2": "SE",
+      "name": "Sweden",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-switzerland",
+      "iso_alpha_2": "CH",
+      "name": "Switzerland",
+      "zone": "EU no Reg",
+      "usd_per_mb": 0.001,
+      "usd_per_gb": 1.02,
+      "premium": 0
+    },
+    {
+      "slug": "esim-taiwan",
+      "iso_alpha_2": "TW",
+      "name": "Taiwan",
+      "zone": "Asia",
+      "usd_per_mb": 0.0026,
+      "usd_per_gb": 2.66,
+      "premium": 0
+    },
+    {
+      "slug": "esim-tajikistan",
+      "iso_alpha_2": "TJ",
+      "name": "Tajikistan",
+      "zone": "SNG",
+      "usd_per_mb": 0.0269,
+      "usd_per_gb": 27.55,
+      "premium": 0
+    },
+    {
+      "slug": "esim-tanzania",
+      "iso_alpha_2": "TZ",
+      "name": "Tanzania",
+      "zone": "Africa",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-thailand",
+      "iso_alpha_2": "TH",
+      "name": "Thailand",
+      "zone": "Asia",
+      "usd_per_mb": 0.0014,
+      "usd_per_gb": 1.43,
+      "premium": 0
+    },
+    {
+      "slug": "esim-togo",
+      "iso_alpha_2": "TG",
+      "name": "Togo",
+      "zone": "Africa",
+      "usd_per_mb": 0.0135,
+      "usd_per_gb": 13.82,
+      "premium": 0
+    },
+    {
+      "slug": "esim-tonga",
+      "iso_alpha_2": "TO",
+      "name": "Tonga",
+      "zone": "Oceania",
+      "usd_per_mb": 0.0065,
+      "usd_per_gb": 6.66,
+      "premium": 0
+    },
+    {
+      "slug": "esim-trinidad-and-tobago",
+      "iso_alpha_2": "TT",
+      "name": "Trinidad and Tobago",
+      "zone": "Caribbean",
+      "usd_per_mb": 0.0041,
+      "usd_per_gb": 4.2,
+      "premium": 0
+    },
+    {
+      "slug": "esim-tunisia",
+      "iso_alpha_2": "TN",
+      "name": "Tunisia",
+      "zone": "Africa",
+      "usd_per_mb": 0.0035,
+      "usd_per_gb": 3.58,
+      "premium": 0
+    },
+    {
+      "slug": "esim-turkey",
+      "iso_alpha_2": "TR",
+      "name": "Turkey",
+      "zone": "Turkey",
+      "usd_per_mb": 0.001,
+      "usd_per_gb": 1.02,
+      "premium": 0
+    },
+    {
+      "slug": "esim-turks-and-caicos-islands",
+      "iso_alpha_2": "TC",
+      "name": "Turks and Caicos Islands",
+      "zone": "Caribbean",
+      "usd_per_mb": 0.004,
+      "usd_per_gb": 4.1,
+      "premium": 0
+    },
+    {
+      "slug": "esim-uganda",
+      "iso_alpha_2": "UG",
+      "name": "Uganda",
+      "zone": "Africa",
+      "usd_per_mb": 0.0041,
+      "usd_per_gb": 4.2,
+      "premium": 0
+    },
+    {
+      "slug": "esim-ukraine",
+      "iso_alpha_2": "UA",
+      "name": "Ukraine",
+      "zone": "SNG",
+      "usd_per_mb": 0.0024,
+      "usd_per_gb": 2.46,
+      "premium": 0
+    },
+    {
+      "slug": "esim-united-arab-emirates",
+      "iso_alpha_2": "AE",
+      "name": "United Arab Emirates",
+      "zone": "UAE",
+      "usd_per_mb": 0.0023,
+      "usd_per_gb": 2.36,
+      "premium": 0
+    },
+    {
+      "slug": "esim-united-kingdom",
+      "iso_alpha_2": "GB",
+      "name": "United Kingdom",
+      "zone": "EU 33 REG",
+      "usd_per_mb": 0.0006,
+      "usd_per_gb": 0.61,
+      "premium": 0
+    },
+    {
+      "slug": "esim-united-states",
+      "iso_alpha_2": "US",
+      "name": "United States",
+      "zone": "United States",
+      "usd_per_mb": 0.0022,
+      "usd_per_gb": 2.25,
+      "premium": 0
+    },
+    {
+      "slug": "esim-uruguay",
+      "iso_alpha_2": "UY",
+      "name": "Uruguay",
+      "zone": "South America",
+      "usd_per_mb": 0.0017,
+      "usd_per_gb": 1.74,
+      "premium": 0
+    },
+    {
+      "slug": "esim-uzbekistan",
+      "iso_alpha_2": "UZ",
+      "name": "Uzbekistan",
+      "zone": "SNG",
+      "usd_per_mb": 0.0043,
+      "usd_per_gb": 4.4,
+      "premium": 0
+    },
+    {
+      "slug": "esim-vanuatu",
+      "iso_alpha_2": "VU",
+      "name": "Vanuatu",
+      "zone": "Oceania",
+      "usd_per_mb": 0.0146,
+      "usd_per_gb": 14.95,
+      "premium": 0
+    },
+    {
+      "slug": "esim-vietnam",
+      "iso_alpha_2": "VN",
+      "name": "Vietnam",
+      "zone": "Asia",
+      "usd_per_mb": 0.0014,
+      "usd_per_gb": 1.43,
+      "premium": 0
+    },
+    {
+      "slug": "esim-zambia",
+      "iso_alpha_2": "ZM",
+      "name": "Zambia",
+      "zone": "Africa",
+      "usd_per_mb": 0.0036,
+      "usd_per_gb": 3.69,
+      "premium": 0
+    },
+    {
+      "slug": "esim-zimbabwe",
+      "iso_alpha_2": "ZW",
+      "name": "Zimbabwe",
+      "zone": "Africa",
+      "usd_per_mb": 0.0768,
+      "usd_per_gb": 78.64,
+      "premium": 1
+    }
+  ]
+}
